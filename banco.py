@@ -6,7 +6,6 @@ limite_saque_dias = 3
 limite_saque_valor = 500
 numero_saques = 0
 numero_depositos = 0
-
 usuarios = []
 contas = []
 AGENCIA = "0001"
